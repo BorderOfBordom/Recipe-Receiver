@@ -1,0 +1,4 @@
+rootProject.name = "Final Project"
+include ':app'
+include ':models'
+include ':lib_task_api'
